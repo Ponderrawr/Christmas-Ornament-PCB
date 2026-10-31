@@ -4,7 +4,7 @@ A solderable LED ornament I designed for my university's IEEE student branch to 
 
 | | |
 |---|---|
-| ![Schematic](docs/images/schematic.png) | ![PCB](docs/images/Christmas_Ornament_PCB.png) |
+| ![Schematic](docs/images/Schematic.png) | ![PCB](docs/images/Christmas_Ornament_PCB.png) |
 | Schematic (Altium Designer) | PCB Layout (Altium Designer) |
 
 > **TODO:** add `docs/images/assembled_lit.jpg`, `docs/images/pcb_front.jpg`, and a short GIF of each lighting mode.
