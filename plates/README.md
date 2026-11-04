@@ -2,7 +2,7 @@
 
 | File | Description |
 |---|---|
-| `Wreath_Plate_v4.stl` | Wreath plate for the 6 wreath LED positions (44 MB) |
+| `wreath_plate.stl` | Wreath plate for the 6 wreath LED positions (44 MB) |
 | `Thickness_Test_Coupon.stl` | 0.4-3.2 mm step wedge for checking light transmission in your filament |
 | `generator/wreath_plate.py` | Regenerates the plate (needs `numpy`): `python generator/wreath_plate.py out.stl` |
 | `generator/thickness_coupon.py` | Regenerates the coupon |
