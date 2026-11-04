@@ -143,7 +143,7 @@ static void modeFade(void) {
 }
 
 // ---------- MODE 2: Wreath shimmer ----------
-#define SH_MIN 40    // dimmest a berry dips (lower = stronger shimmer)
+#define SH_MIN 30    // dimmest a berry dips (lower = stronger shimmer)
 #define SH_MAX 120   // brightest a berry gets (max 127)
 static uint8_t shTarget[NUM_LEDS];
 static uint8_t shStep[NUM_LEDS];
